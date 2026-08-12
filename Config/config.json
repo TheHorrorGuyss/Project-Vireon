@@ -6,6 +6,6 @@
     "//": "Disabling global chat can help the server to perform faster as less resources are used.",
     "EnableGlobalChat": false
   },
-  "matchmakerIP": "127.0.0.1",
-  "gameServerIP": "127.0.0.1"
+  "matchmakerIP": "://onrender.com",
+  "gameServerIP": "84.68.245.239"
 }
